@@ -1,7 +1,6 @@
 <script setup>
     import { ref } from 'vue'
 
-    // Add code here
     // challenge: use array 
     const message = ref("Choose your favourite fruit : ")
     const fruits = ref(["apple", "orange","peach"])
